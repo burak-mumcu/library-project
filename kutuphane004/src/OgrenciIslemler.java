@@ -14,9 +14,6 @@ public class OgrenciIslemler {
         System.out.println("yapılacak işlemi seçiniz\n" +
                 "1-tüm kitapları listele\n" +
                 "2-kitap ara \n"+
-                "3-\n" +
-                "4-\n"+
-                "5-\n"+
                 "0-cıkış");
         int secim = scanner.nextInt();
         if (secim==1){
